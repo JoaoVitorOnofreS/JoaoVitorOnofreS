@@ -1,7 +1,7 @@
 ## Olá pessoal, eu sou o João!
 
 - 😀Atualmente estudo React, Node e Flutter.
-- 💻Cursando Análise e desenvolvimento de sistemas.
+- 💻Formado em Análise e desenvolvimento de sistemas.
 - 🏡Caraguatatuba,SP - Brasil
 
 ##
