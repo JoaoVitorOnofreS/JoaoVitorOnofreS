@@ -14,8 +14,8 @@ Contate-me, vamos trabalhar juntos em algum projeto.😉
 
  <div>
               <a href="https://github.com/joaovitoronofre">
-                <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitoronofre&layout=compact&theme=dark&show_icons=true">
-                   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=joaovitoronofre&theme=dark&show_icons=true">
+                <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOnofreS&layout=compact&theme=dark&show_icons=true">
+                   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorOnofreS&theme=dark&show_icons=true">
               </a>
             </div>
             
