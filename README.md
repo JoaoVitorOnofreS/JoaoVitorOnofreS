@@ -1,14 +1,16 @@
-## Olá pessoal, eu sou o João!
+## Hi guys, i'm  João!
 
-- 😀Atualmente estudo React, Node e Flutter.
-- 💻Formado em Análise e desenvolvimento de sistemas.
-- 🏡Caraguatatuba,SP - Brasil
+- 😀currently studying  React, Node e Flutter.
+- 💻Graduated in Systems Analysis and Development
+- 🏡Caraguatatuba,SP - Brazil
 
 ##
 
-Seja bem vindo ao meu perfil!👍😁
 
-Contate-me, vamos trabalhar juntos em algum projeto.😉
+Welcome to my profile!👍😁
+
+
+Contact me, let's work together on some project.🙂🌀
 
 ## GITHUB STATS
 
