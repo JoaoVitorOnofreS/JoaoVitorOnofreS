@@ -23,7 +23,7 @@ Contact me, let's work together on some project.🙂🌀
             
             
             
-   ## LINGUAGENS QUE VENHO USANDO 
+   ## languages i have use🪐
  <div style="display: block;"><br>
               <img align="center" alt="Joao-Fl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
               <img align="center" alt="Joao-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
