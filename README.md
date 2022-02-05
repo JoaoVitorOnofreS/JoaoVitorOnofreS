@@ -7,6 +7,8 @@
 ##
 
 
+I've always been very curious to understand things. With computing it was no different, I spent hours and hours in video games and then computers. This curiosity led me to programming, as we have a vast world full of paths to follow.
+
 Welcome to my profile!👍😁
 
 
