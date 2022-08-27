@@ -1,6 +1,6 @@
 ## Hi guys, i'm  João!
 
-- 😀currently studying  React, Node e Flutter.
+- 😀Currently studying  React, Node e Flutter.
 - 💻Graduated in Systems Analysis and Development
 - 🏡Caraguatatuba,SP - Brazil
 
